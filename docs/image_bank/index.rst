@@ -23,8 +23,8 @@ If you do not want to get into creating your own assets, other people have alrea
 
 Please download the assets and place them on the PyBadge, in the root directory. Your previoud "Hello, World!" program should restart and run again each time you load a new file onto the PyBadge, hopefully with no errors once more.
 
-Assets from other people can be found `here <./assets>`_.
+Assets from other people can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/image_bank/assets>`_.
 
 .. note::
 
-   Full code and assets that can be copied onto PyBadge for this step can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/image_bank>`_.
+   Full code and assets that can be copied onto PyBadge for this step can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/image_bank/code>`_.
