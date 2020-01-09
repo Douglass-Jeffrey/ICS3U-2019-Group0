@@ -13,7 +13,7 @@ def game_scene():
     # this function is the game scene
 
     # an image bank for CircuitPython
-    image_bank_1 = stage.Bank.from_bmp16("./tiles.bmp")
+    image_bank_1 = stage.Bank.from_bmp16("./space_aliens.bmp")
 
     # sets the background to image 0 in the bank
     background = stage.Grid(image_bank_1, 160, 120)

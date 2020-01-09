@@ -2,7 +2,9 @@
 Sprites
 =======
 
-Now that we have the background lets place a single sprite on the screen. Sprites are handled differently than the background, they can be placed anywhere we want on the sceen, not just tiled. We will create a varaible that holds a specific image from the image bank and then we will draw it on the screen. 
+Now that we have the background lets place a single sprite on the screen. Sprites are handled differently than the background, they can be placed anywhere we want on the sceen, not just tiled. We will create a varaible that holds a specific image from the image bank. We will also create a **list** that will hold all the sprites we want to paint onto the screen. We will take our ship variable and add it to this list. 
+
+Painting the entire screen each frame is not practical. The refresh rate just is not fast enough. Instead when the scen loads we will paint the background and then all the sprites on top of it. After that, each frame we will just redraw the sprites in the list. This will let us have a much faster refesh rate. To accomplish this after we first paint the entire screen, we will create a loop, usually known as a gaming loop, that will keep running the code to update our sprites. 
 
 .. literalinclude:: ./code/code.py
    :language: python
