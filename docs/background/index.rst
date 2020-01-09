@@ -10,6 +10,7 @@ Luckaly CircuitPython has some built in libraries that will make this much easie
    :language: python
    :caption: code.py
    :linenos:
+   :emphasize-lines: 8,9,15-28
 
 .. note::
 
