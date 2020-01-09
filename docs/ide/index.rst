@@ -54,5 +54,4 @@ Congratulations, we are ready to start.
 
 .. note::
 
-   Full code and assets that can be copied to PyBadge for this step can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/ide/code>`_.
-
+   Full code and assets that can be copied onto PyBadge for this step can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/ide/code>`_.

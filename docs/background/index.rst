@@ -9,4 +9,8 @@ Luckaly CircuitPython has some built in libraries that will make this much easie
 .. literalinclude:: ./code/code.py
    :language: python
    :caption: code.py
-   :linenos:
+   :linenos
+
+.. note::
+
+   Full code and assets that can be copied onto PyBadge for this step can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/background/code>`_.
