@@ -10,6 +10,7 @@ Painting the entire screen each frame is not practical. The refresh rate just is
    :language: python
    :caption: code.py
    :linenos:
+   :emphasize-lines: 15,16,24-28,33,34,40-48
 
 .. note::
 
