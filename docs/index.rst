@@ -140,4 +140,5 @@ You might also want:
   install/index
   ide/index
   image_bank/index
+  background/index
   sprites/index

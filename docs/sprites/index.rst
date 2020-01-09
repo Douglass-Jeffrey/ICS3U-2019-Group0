@@ -9,6 +9,5 @@ Luckaly CircuitPython has some built in libraries that will make this much easie
 .. literalinclude:: ./code/code.py
    :language: python
    :caption: code.py
-   :linenos: 1-29, 38-40
 
-
+Now that we have the background is filled lets place a single sprite on the screen. Sprites are handled differently than the background, they can be placed anywhere we want on the sceen. We will create a varaible that holds a spacific image from the image bank and then we will draw it on the screen. 
