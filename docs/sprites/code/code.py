@@ -10,10 +10,10 @@ import stage
 
 
 def game_scene():
-    # this function is the game loop
+    # this function is the game scene
 
     # an image bank for CircuitPython
-    image_bank_1 = stage.Bank.from_bmp16("tiles.bmp")
+    image_bank_1 = stage.Bank.from_bmp16("./tiles.bmp")
 
     # sets the background to image 0 in the bank
     background = stage.Grid(image_bank_1, 160, 120)
@@ -27,13 +27,6 @@ def game_scene():
     # most likely you will only render background once per scene
     game.render_block()
 
-    # repeat forever, game loop
-    while True:
-        # get user input
-
-        # update game logic
-
-        # redraw sprite list
 
 if __name__ == "__main__":
     game_scene()

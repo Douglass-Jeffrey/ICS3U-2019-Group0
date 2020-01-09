@@ -51,3 +51,8 @@ Although this code does work just as is, it is always nice to ensure we are foll
    :linenos:
 
 Congratulations, we are ready to start.
+
+.. note::
+
+   Full code and assets that can be copied to PyBadge for this step can be found `here <https://github.com/MotherTeresaHS/ICS3U-2019-Group0/tree/master/docs/ide/code>`_.
+
