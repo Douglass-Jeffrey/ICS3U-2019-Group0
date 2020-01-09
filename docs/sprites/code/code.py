@@ -33,10 +33,6 @@ def game_scene():
 
         # update game logic
 
-        # Wait for 1 seconds
-        time.sleep(1.0)
-        menu_scene()
-
         # redraw sprite list
 
 if __name__ == "__main__":
