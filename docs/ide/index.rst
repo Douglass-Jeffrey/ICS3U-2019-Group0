@@ -30,7 +30,8 @@ Hello, World!
 Yes, you know that first program you should always run when starting a new coding adventure, just to ensure everything is running correctly! Once you have access to your IDE and you have CircuitPython loaded, you should make sure everything is working before you move on. To do this we will do the traditional "Hello, World!" program. By default CircuitPython looks for a file called :file:`code.py` in the root directory of the PyBadge to start up. You will place the following code in the :file:`code.py` file:
 
 .. code-block:: python
-	:linenos:
+	:caption: this.py
+  :linenos:
 
 	print("Hello, World!")
 
