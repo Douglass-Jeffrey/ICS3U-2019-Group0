@@ -140,5 +140,4 @@ You might also want:
   install/index
   ide/index
   image_bank/index
-  game/index
-  menu/index
+  sprites/index

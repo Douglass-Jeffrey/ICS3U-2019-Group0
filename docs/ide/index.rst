@@ -45,11 +45,6 @@ As soon as you save the file onto the PyBadge, the screen should flash and you s
 
 Although this code does work just as is, it is always nice to ensure we are following proper coding conventions, including style and comments. Here is a better version of Hello, World! You will notice that I have a call to a :py:func:`main()` function. This is common in Python code but not normally seen in CircuitPython. I am including it because by breaking the code into different functions to match different scenes, eventually will be really helpful.
 
-
-.. literalinclude:: ./example.py
-   :language: py
-   :lines: 10-20
-
 .. code-block:: python
 	:linenos:
 
@@ -70,3 +65,7 @@ Although this code does work just as is, it is always nice to ensure we are foll
     
 
 Congratulations, we are ready to start.
+
+.. literalinclude:: ./code/code.py
+   :language: python
+   :linenos:
