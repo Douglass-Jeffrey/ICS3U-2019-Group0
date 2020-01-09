@@ -45,27 +45,8 @@ As soon as you save the file onto the PyBadge, the screen should flash and you s
 
 Although this code does work just as is, it is always nice to ensure we are following proper coding conventions, including style and comments. Here is a better version of Hello, World! You will notice that I have a call to a :py:func:`main()` function. This is common in Python code but not normally seen in CircuitPython. I am including it because by breaking the code into different functions to match different scenes, eventually will be really helpful.
 
-.. code-block:: python
-	:linenos:
-
-	#!/usr/bin/env python3
-
-	# Created by : Mr. Coxall
-	# Created on : January 2020
-	# This program prints out Hello, World! onto the PyBadge
-
-	  
-	def main():
-	    # this function prints out Hello, World! onto the PyBadge
-	    print("Hello, World!")
-
-
-	if __name__ == "__main__":
-	    main()
-    
-
-Congratulations, we are ready to start.
-
 .. literalinclude:: ./code/code.py
    :language: python
    :linenos:
+
+Congratulations, we are ready to start.
