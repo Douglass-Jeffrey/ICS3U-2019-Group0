@@ -9,7 +9,7 @@ Luckaly CircuitPython has some built in libraries that will make this much easie
 .. literalinclude:: ./code/code.py
    :language: python
    :caption: code.py
-   :linenos
+   :linenos:
 
 .. note::
 
