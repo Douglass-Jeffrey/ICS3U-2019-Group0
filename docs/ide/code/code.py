@@ -5,10 +5,10 @@
 # This program prints out Hello, World! onto the PyBadge
 
 
-def main():
+def game_scene():
     # this function prints out Hello, World! onto the PyBadge
     print("Hello, World!")
 
 
 if __name__ == "__main__":
-    main()
+    game_scene()
