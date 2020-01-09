@@ -47,7 +47,7 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 .. literalinclude:: ./code/code.py
    :language: python
-   :name: code.py
+   :caption: code.py
    :linenos:
 
 Congratulations, we are ready to start.
