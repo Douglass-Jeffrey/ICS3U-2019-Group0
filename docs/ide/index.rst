@@ -31,7 +31,6 @@ Yes, you know that first program you should always run when starting a new codin
 
 .. code-block:: python
 	:linenos:
-  :name: code.py
 
 	print("Hello, World!")
 
@@ -48,12 +47,7 @@ Although this code does work just as is, it is always nice to ensure we are foll
 
 .. literalinclude:: ./code/code.py
    :language: python
+   :name: code.py
    :linenos:
-
-.. literalinclude:: ./code/code.py
-   :language: python
-   :linenos:
-   :dedent: 4
-   :lines: 10
 
 Congratulations, we are ready to start.
