@@ -10,10 +10,10 @@ import stage
 
 
 def game_scene():
-    # this function is the splash scene game loop
+    # this function is the game loop
 
     # an image bank for CircuitPython
-    image_bank_1 = stage.Bank.from_bmp16("mt_game_studio.bmp")
+    image_bank_1 = stage.Bank.from_bmp16("tiles.bmp")
 
     # sets the background to image 0 in the bank
     background = stage.Grid(image_bank_1, 160, 120)
